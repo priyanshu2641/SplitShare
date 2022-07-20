@@ -1,18 +1,9 @@
-# Prerequisite
+# SplitShare
 
-Node.js
+A JavaScript application to share expenditures among friends which results in saving time by 80%. This application was created using HTML, CSS and Javascript, React.js.
 
-# Getting Started
+It utilizes a Max-Heap data structure with up and down heap operations to find maximum credit and debit transactions.
 
-Install dependencies by following command:
+It can used Simplify the transactions and provides the settlements graph.
 
-### `yarn install`
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Live Demo Link: https://splitshare-priyanshu-chand.netlify.app/
